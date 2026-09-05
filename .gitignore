@@ -1,0 +1,16 @@
+# Real secrets — never commit
+.env
+
+# Real pfSense export — contains real IPs/rules, keep local only
+config.xml
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/

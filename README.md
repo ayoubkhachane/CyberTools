@@ -78,4 +78,5 @@ Parses an exported pfSense configuration and flags two specific bug patterns tha
 ---
 
 **Author:** Ayoub Khachane
+
 **Related Projects:** [Network-Lab](https://github.com/ayoubkhachane/Network-Lab) · [SIEM-Lab](https://github.com/ayoubkhachane/SIEM-Lab) · [Honeypot-Lab](https://github.com/ayoubkhachane/Honeypot-Lab) · [Malware-Analysis](https://github.com/ayoubkhachane/Malware-Analysis) · [CTF-Challenges](https://github.com/ayoubkhachane/CTF-Challenges)
